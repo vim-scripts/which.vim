@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=139
+
+This is a unix like "Which" function.
+We can check whether program was installed in script.
+:echo Which('wget')
+
